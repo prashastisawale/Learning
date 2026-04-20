@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ajax Product</title>
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+     
+</head>
+
+
+<body>
+
+    <h2>Fetch Data</h2>
+    <button onclick="loadData()">
+        Fetch Data</button>
+
+    <table border = "1" id = "showtable">
+        <tr>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Price</th>
+
+
+        </tr>
+
+    </table>
+
+       <script>
+ function loadData() {
+            let xhttp = new XMLHttpRequest();
+
+            xhttp.open("GET", "https://fakestoreapi.com/products", true);
+
+
+            xhttp.send();
+            xhttp.onreadystatechange = function () {
+
+                if (this.readyState == 4 && this.status == 200)
+                {
+                   
+                    let d = JSON.parse(this.responseText)  ;
+
+                    let table = document.getElementById("showtable");
+
+                    for(let i = 0; i<d.length; i++){
+                        let row = "<tr>" + 
+                                   "<td>"+d[i].id+"</td>" +
+                                   "<td>"+d[i].title+"</td>" +
+                                   "<td>"+d[i].price+"</td>" +
+                                   "</tr>";
+
+                        table.innerHTML += row;
+                                   
+                    }
+                     
+                    
+                }
+            };
+
+
+
+        }
+    </script>
+
+</body>
+
+</html>

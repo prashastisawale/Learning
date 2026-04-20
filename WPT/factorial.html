@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            factorial
+        </title>
+        <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+    </head>
+    <body>
+        <input type = "text" id= "num" />
+        <button id="btn">OK</button>
+
+        <p id="result"></p>
+
+
+        <script>
+            $(document).ready(function()
+            {
+                 $("#btn").click(function(){
+
+                    let value = Number($("#num").val());
+                    var fact = 1;
+
+                    for(var i = 1; i<=value; i++){
+                        fact = fact * i;
+                    }
+
+                    $("#result").text("factorial : " + fact);
+
+
+           
+                 });
+         
+            });
+                
+  
+        </script>
+
+    </body>
+</html>

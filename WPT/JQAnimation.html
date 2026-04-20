@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>
+        Animation
+    </title>
+</head>
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+<body>
+    <div id="box" style="height: 50px; width: 50px; background-color: aqua; position: relative;"></div>
+    <br><br><br><br><br><br>
+
+
+
+    <button id="start">Start</button>
+    <button id="stop">Stop</button>
+
+    <script>
+        function moveBox() {
+
+               
+                
+
+        $("#box")
+        .animate({left: '300px'},1000)
+        .animate({top: '300px'},1000)
+        .animate({left: '0px'},1000)
+        .animate({top: '0px'},1000, moveBox);
+        }
+
+         $("#start").click(function(){
+            moveBox();
+            
+         });
+     
+
+        $("#stop").click(function(){
+
+        $("#box").stop(true);
+
+        });
+
+
+    </script>
+</body>
+
+</html>

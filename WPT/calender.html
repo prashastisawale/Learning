@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Calender Control</title>
+
+    </head>
+    <body>
+        <div>
+            <label for="">Select Birthdate:</label>
+            <input type="Date" name="Bdate" id="Bdate">
+
+        </div>
+        <div>
+            <button onClick="calculateAge()" >Calculate Age</button>
+        </div>
+
+        <p id="result"></p>
+
+
+        <script>
+            function calculateAge(){
+
+    let birthyear = document.getElementById("Bdate").value;
+    let Birth = new Date(birthyear).getFullYear();
+    let currentYear = new Date().getFullYear();
+
+    //alert(birthyear);
+    //alert(currentYear);
+
+    let age = currentYear - Birth;
+    //alert(age);
+
+    document.getElementById("result").innerHTML = "Your Age is: " + age;
+}
+        </script>
+    </body>
+</html>

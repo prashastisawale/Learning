@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Paragraph Using jQuery</title>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+</head>
+
+<body>
+    <button id="btn">OK</button>
+
+    <p id="p1"></p>
+    <p id="p2"></p>
+    <p id="p3"></p>
+
+    <script>
+        $(document).ready(function()
+        {
+            $("#btn").click(function()
+            {
+                $("#p1").text("Hello");
+                $("#p2").html("<i>Hello</i>");
+                $("#p3").html("<u>Hello</u>");
+            });
+
+        });
+        </script>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

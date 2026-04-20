@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <title>
+        Display student data in table format
+    </title>
+    <head>
+    <style>
+
+    </style>
+    </head>
+
+    <body>
+        <div>
+            <label for="" Student Id: ></label>
+            <input type="number" name="stuId" id="stuId">
+            
+        </div>
+        <br>
+        <br>
+
+        <div>
+            <label for="" Student Name: ></label>
+            <input type="text" name="stuName" id="stuName">
+
+          <div>
+            <br><br>
+            <button id="saveBtn" onclick="saveBtn()">Save</button>
+          </div>
+          <br><br>
+
+        </div>
+       <Table id="stuTable" border="1">
+        <tr>
+            <th>Student Id</th>
+            <th>Student Name</th>
+        </tr>
+       </Table>
+       <br><br>
+
+       <script>
+        function saveBtn() {
+            alert("inside function");
+            let id = document.getElementById("stuId").value;
+            let Name = document.getElementById("stuName").value;
+
+            alert(id);
+            alert(Name);
+        
+
+        let student={
+            studentId: id,
+            studentName: Name
+        };
+
+        let row = "<tr>" + 
+            "<td>" + student.studentId + "</td>" +
+            "<td>" + student.studentName + "</td>" +
+            "</tr>";
+
+        document.getElementById("stuTable").innerHTML += row;
+
+
+        document.getElementById("stuId").value = "";
+        document.getElementById("stuName").value = "";
+        }
+
+
+       </script>
+    </body>
+    
+</html>

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Array Operations</title>
+</head>
+<body>
+    <div>
+        <input type="text" id="val" placeholder="Enter first number">
+        <button onclick="checkValue()">CheckValue</button><br><br>
+
+        <button onclick="addtoend()">Add</button>
+        <br><br>
+        <input type="text" id="index" placeholder="Enter index">
+
+        <button onclick="insertAtIndex()">Insert at Index</button>
+        <p id="Output"></p>
+        <p id="result"></p>
+  
+    </div>
+
+    <script>
+        var arr = [10,20,30,40,50];
+
+        function checkValue(){
+            let val = document.getElementById("val").value;
+
+            if(arr.includes(Number(val)))
+        {
+            document.getElementById("Output").innerHTML = "Value Found";
+        }
+        else
+        {
+            document.getElementById("Output").innerHTML = "Value Not Found";
+        }
+        }
+
+
+        function addtoend()
+        {
+            let val = document.getElementById("val").value;
+            arr.push(Number(val));
+            document.getElementById("Output").innerHTML = "Value Added. Array is now: " + arr;
+
+        }
+        function insertAtIndex()
+        {
+            let val = document.getElementById("val").value;
+            let index = document.getElementById("index").value;
+
+
+            let lastElement = arr.pop();
+
+            arr.splice(index,0,Number(val));
+            document.getElementById("result").innerHTML = "Value Inserted. Array is now: " + arr;
+
+
+
+
+           
+        }
+    </script>
+
+
+
+
+
+
+</body>
+</html>

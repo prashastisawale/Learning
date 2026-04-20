@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>New User</title>
+</head>
+
+<body>
+
+<h2>New User Registration</h2>
+
+<form>
+
+First Name:<br>
+<input type="text" id="fname"><br><br>
+
+Last Name:<br>
+<input type="text" id="lname"><br><br>
+
+User Name:<br>
+<input type="text" id="uname"><br><br>
+
+Gender:<br>
+<input type="radio" name="gender" value="Male">Male
+<input type="radio" name="gender" value="Female">Female
+<br><br>
+
+Known Languages:<br>
+<input type="checkbox" name="lang" value="English">English
+<input type="checkbox" name="lang" value="Marathi">Marathi
+<input type="checkbox" name="lang" value="Hindi">Hindi
+<br><br>
+
+Email Id:<br>
+<input type="email" id="email"><br><br>
+
+Password:<br>
+<input type="password" id="pass"><br><br>
+
+Re-enter Password:<br>
+<input type="password" id="rpass"><br><br>
+
+<button type="button" onclick="showData()">Register</button>
+
+</form>
+
+<br>
+
+<div id="output"></div>
+
+<script>
+
+function showData()
+{
+
+let fname = document.getElementById("fname").value;
+let lname = document.getElementById("lname").value;
+let uname = document.getElementById("uname").value;
+let email = document.getElementById("email").value;
+
+let gender = document.querySelector('input[name="gender"]:checked').value;
+
+let languages = "";
+let lang = document.getElementsByName("lang");
+
+for(let i=0;i<lang.length;i++)
+{
+ if(lang[i].checked)
+ {
+   languages += lang[i].value + " ";
+ }
+}
+
+let table = "<table border='1'>";
+
+table += "<tr><th>Field</th><th>Value</th></tr>";
+
+table += "<tr><td>First Name</td><td>"+fname+"</td></tr>";
+table += "<tr><td>Last Name</td><td>"+lname+"</td></tr>";
+table += "<tr><td>User Name</td><td>"+uname+"</td></tr>";
+table += "<tr><td>Gender</td><td>"+gender+"</td></tr>";
+table += "<tr><td>Languages</td><td>"+languages+"</td></tr>";
+table += "<tr><td>Email</td><td>"+email+"</td></tr>";
+
+table += "</table>";
+
+document.getElementById("output").innerHTML = table;
+
+}
+
+</script>
+
+</body>
+</html>

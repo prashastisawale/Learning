@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Form Validation</title>
+
+<script>
+function validationForm(){
+
+    var username = document.getElementById("username").value;
+    var pass = document.getElementById("pass").value;
+
+    if(username == "" || pass == ""){
+        alert("All fields are mandatory");
+        return false;
+    }
+
+    if(username == "iet" && pass == "iet"){
+        alert("Login Success");
+        window.location="media.html";
+        return false;
+    }
+    else{
+        alert("Login Failed");
+        return false;
+    }
+}
+</script>
+
+</head>
+
+<body>
+
+<h2>Login Form</h2>
+
+<form onsubmit="return validationForm()">
+
+<label>Username:</label><br>
+<input type="text" id="username">
+<br>
+<span style="color:red;">* Username is mandatory</span>
+<br><br>
+
+<label>Password:</label><br>
+<input type="password" id="pass">
+<br>
+<span style="color:red;">* Password is mandatory</span>
+<br><br>
+
+<input type="submit" value="Login">
+
+</form>
+
+</body>
+</html>

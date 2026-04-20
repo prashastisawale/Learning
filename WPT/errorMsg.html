@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Display Error Message</title>
+
+
+        <style>
+            .error{
+                color: red;
+                margin-left: 20px;
+                margin-top: 20px;
+
+            }
+        </style>
+    </head>
+
+
+    <body>
+        <h2>Form Validation</h2>
+        <input type = "text"  id="name"  required minlength="3"  maxlength="10">
+        <button onclick="validate()">Submit</button>
+        <br>
+        <br>
+        <span id = "msg" class = "error"></span>
+
+        <script>
+            function validate(){
+                let txt = document.getElementById("name");
+                let msg = document.getElementById("msg");
+
+                if(!txt.checkValidity()){
+                    msg.innerHTML = txt.validationMessage;
+                }else{
+                    msg.innerHTML = "valid input";
+                }
+
+            }
+        </script>
+
+    </body>
+</html>

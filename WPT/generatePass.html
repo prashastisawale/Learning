@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<head>
+    <title>Generate Random Password</title>
+</head>
+<body>
+    <h2> Generate Random Password</h2>
+    <button onclick="generatePass()">Generate Password</button>
+    <p id = "result"></p>
+    <script>
+        function generatePass(){
+            let chars = "012345789abcdefghijklmnopqrstuvwxyz!@#$%^&*()ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+            let passwordLength = 8;
+            let password = "";
+            for( let i = 0; i < passwordLength; i++){
+                randomIndex = Math.floor(Math.random() * chars.length);
+                password += chars[randomIndex];
+            }
+            document.getElementById("result").innerHTML = "Generated Password: " + password;
+
+            
+
+        }
+    </script>
+</body>

@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Predefined Methods</title>
+        
+    </head>
+    <body>
+        <script>
+            let arr = [13,25,2,8,5,10,15,20];
+
+            console.log("Original Array: " + arr);
+
+            
+
+            let even = arr.filter(num => num % 2 === 0);
+            console.log("Even Numbers: " + even);
+
+            let odd = arr.filter(num => num % 2 !== 0);
+            console.log("Odd Numbers: " + odd);
+
+            let sortedArray = arr.sort((a,b) => a - b);
+            console.log("Sorted Array: " + sortedArray);
+
+
+
+        </script>
+    </body>
+</html>
+

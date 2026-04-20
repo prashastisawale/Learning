@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Destructing Concept</title>
+    </head>
+    <body>
+        <h2>Book Details</h2>
+        Book Id : <input type="text" id="Id"><br><br>
+        Book Name : <input type="text" id="Name"><br><br>
+        Book Author : <input type="text" id="Author"><br><br>
+        Book Price : <input type="text" id="Price"><br><br>
+
+        <button onclick="showBook()">Submit</button>
+
+        <p id="result"></p>
+
+
+        <script>
+            function showBook() {
+                let id = document.getElementById("Id").value;
+                let Bname =document.getElementById("Name").value;
+                let Author = document.getElementById("Author").value;
+                let Price = document.getElementById("Price").value;
+            }
+
+            let Book = {
+                bookId: Bid,
+                name: Bname,
+                author: Author,
+                price: Price 
+
+            };
+
+            let {bookId,name, author, price: bookPrice } = book;
+
+            document.getElementById("result").innerHTML =
+    "Book ID: " + bookId + "<br>" +
+    "Title: " + name + "<br>" +
+    "Author: " + author + "<br>" +
+    "Price: " + bookPrice;
+
+        
+
+
+
+        </script>
+
+    </body>
+</html>

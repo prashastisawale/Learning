@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Form Validation</title>
+</head>
+<body>
+
+<h2>Login Form</h2>
+
+<form onsubmit="return validateForm()">
+
+  Name: <br>
+  <input type="text" id="name">
+  <span id="nameError"></span><br><br>
+
+  Email: <br> 
+  <input type="text" id="email">
+  <span id="emailError"></span><br><br>
+
+  Password: <br>
+  <input type="password" id="password">
+  <span id="passError"></span><br><br>
+
+  <input type="submit" value="Submit">
+
+</form>
+
+<script>
+function validateForm() {
+
+  let name = document.getElementById("name").value.trim();
+  let email = document.getElementById("email").value.trim();
+  let password = document.getElementById("password").value.trim();
+
+  // error elements
+  let nameError = document.getElementById("nameError");
+  let emailError = document.getElementById("emailError");
+  let passError = document.getElementById("passError");
+
+  // clear old errors
+  nameError.innerHTML = "";
+  emailError.innerHTML = "";
+  passError.innerHTML = "";
+
+  let isValid = true;
+
+  // Name validation
+  if (name === "") {
+    nameError.innerHTML = "<font color='red'>Required field</font>";
+    isValid = false;
+  }
+
+  // Email validation
+  if (email === "") {
+    emailError.innerHTML = "<font color='red'>Required field</font>";
+    isValid = false;
+  } else if (!email.includes("@")) {
+    emailError.innerHTML = "<font color='red'>Invalid email</font>";
+    isValid = false;
+  }
+
+  // Password validation
+  if (password === "") {
+    passError.innerHTML = "<font color='red'>Required field</font>";
+    isValid = false;
+  } else if (password.length < 6) {
+    passError.innerHTML = "<font color='red'>Min 6 characters</font>";
+    isValid = false;
+  }
+
+  return isValid;
+}
+</script>
+
+</body>
+</html>

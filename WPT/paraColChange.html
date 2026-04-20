@@ -1,0 +1,35 @@
+<!Doctype HTML>
+<html>
+    <head>
+        <tittle>Paragraph Colour Change</tittle>
+
+    </head>
+    <body>
+        <div style="align-tems:center;">
+            <div>
+                <input type="color" id="col_1">
+                <button onclick="changePara()">Change</button>
+                
+            </div>
+    
+        <div id="colorPara">
+            <br><br>
+        <p1>Technology has become an important part of our daily life. People use computers, smartphones, and the internet for communication, education, and entertainment. It makes work faster and easier.</p1>
+        <br><br>
+        <p2>Education helps people gain knowledge and develop skills. Students learn many subjects in school and college that help them build their future. Good education also teaches discipline and responsibility.</p2>
+        <br><br>
+        <p3>In conclusion, technology and education are both essential for personal and societal development.</p3><br>
+        <br>
+        <p4>They work together to improve our lives and create a better future for everyone.</p4>
+
+        </div>
+<script>
+    function changePara(){
+        let color = document.getElementById("col_1").value;
+        document.getElementById("colorPara").style.color = color;
+    }
+</script>
+</div>
+
+
+
