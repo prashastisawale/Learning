@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\NetDemos\41Demo_LINQ\obj\Debug\net10.0\41Demo_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\NetDemos\41Demo_LINQ\obj\Debug\net10.0\41Demo_LINQ.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\NetDemos\41Demo_LINQ\obj\Debug\net10.0\41Demo_LINQ.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\NetDemos\41Demo_LINQ\obj\Debug\net10.0\41Demo_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\NetDemos\41Demo_LINQ\bin\Debug\net10.0\41Demo_LINQ.exe
+C:\Users\ADMIN\source\repos\NetDemos\41Demo_LINQ\bin\Debug\net10.0\41Demo_LINQ.deps.json
+C:\Users\ADMIN\source\repos\NetDemos\41Demo_LINQ\bin\Debug\net10.0\41Demo_LINQ.runtimeconfig.json
+C:\Users\ADMIN\source\repos\NetDemos\41Demo_LINQ\bin\Debug\net10.0\41Demo_LINQ.dll
+C:\Users\ADMIN\source\repos\NetDemos\41Demo_LINQ\bin\Debug\net10.0\41Demo_LINQ.pdb
+C:\Users\ADMIN\source\repos\NetDemos\41Demo_LINQ\obj\Debug\net10.0\41Demo_LINQ.dll
+C:\Users\ADMIN\source\repos\NetDemos\41Demo_LINQ\obj\Debug\net10.0\refint\41Demo_LINQ.dll
+C:\Users\ADMIN\source\repos\NetDemos\41Demo_LINQ\obj\Debug\net10.0\41Demo_LINQ.pdb
+C:\Users\ADMIN\source\repos\NetDemos\41Demo_LINQ\obj\Debug\net10.0\41Demo_LINQ.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\NetDemos\41Demo_LINQ\obj\Debug\net10.0\ref\41Demo_LINQ.dll

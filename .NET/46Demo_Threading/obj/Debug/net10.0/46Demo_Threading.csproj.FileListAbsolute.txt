@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\NetDemos\46Demo_Threading\bin\Debug\net10.0\46Demo_Threading.exe
+C:\Users\ADMIN\source\repos\NetDemos\46Demo_Threading\bin\Debug\net10.0\46Demo_Threading.deps.json
+C:\Users\ADMIN\source\repos\NetDemos\46Demo_Threading\bin\Debug\net10.0\46Demo_Threading.runtimeconfig.json
+C:\Users\ADMIN\source\repos\NetDemos\46Demo_Threading\bin\Debug\net10.0\46Demo_Threading.dll
+C:\Users\ADMIN\source\repos\NetDemos\46Demo_Threading\bin\Debug\net10.0\46Demo_Threading.pdb
+C:\Users\ADMIN\source\repos\NetDemos\46Demo_Threading\obj\Debug\net10.0\46Demo_Threading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\NetDemos\46Demo_Threading\obj\Debug\net10.0\46Demo_Threading.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\NetDemos\46Demo_Threading\obj\Debug\net10.0\46Demo_Threading.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\NetDemos\46Demo_Threading\obj\Debug\net10.0\46Demo_Threading.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\NetDemos\46Demo_Threading\obj\Debug\net10.0\46Demo_Threading.dll
+C:\Users\ADMIN\source\repos\NetDemos\46Demo_Threading\obj\Debug\net10.0\refint\46Demo_Threading.dll
+C:\Users\ADMIN\source\repos\NetDemos\46Demo_Threading\obj\Debug\net10.0\46Demo_Threading.pdb
+C:\Users\ADMIN\source\repos\NetDemos\46Demo_Threading\obj\Debug\net10.0\46Demo_Threading.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\NetDemos\46Demo_Threading\obj\Debug\net10.0\ref\46Demo_Threading.dll

@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\NetDemos\28Demo_FileIO\obj\Debug\net10.0\28Demo_FileIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\NetDemos\28Demo_FileIO\obj\Debug\net10.0\28Demo_FileIO.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\NetDemos\28Demo_FileIO\obj\Debug\net10.0\28Demo_FileIO.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\NetDemos\28Demo_FileIO\obj\Debug\net10.0\28Demo_FileIO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\NetDemos\28Demo_FileIO\bin\Debug\net10.0\28Demo_FileIO.exe
+C:\Users\ADMIN\source\repos\NetDemos\28Demo_FileIO\bin\Debug\net10.0\28Demo_FileIO.deps.json
+C:\Users\ADMIN\source\repos\NetDemos\28Demo_FileIO\bin\Debug\net10.0\28Demo_FileIO.runtimeconfig.json
+C:\Users\ADMIN\source\repos\NetDemos\28Demo_FileIO\bin\Debug\net10.0\28Demo_FileIO.dll
+C:\Users\ADMIN\source\repos\NetDemos\28Demo_FileIO\bin\Debug\net10.0\28Demo_FileIO.pdb
+C:\Users\ADMIN\source\repos\NetDemos\28Demo_FileIO\obj\Debug\net10.0\28Demo_FileIO.dll
+C:\Users\ADMIN\source\repos\NetDemos\28Demo_FileIO\obj\Debug\net10.0\refint\28Demo_FileIO.dll
+C:\Users\ADMIN\source\repos\NetDemos\28Demo_FileIO\obj\Debug\net10.0\28Demo_FileIO.pdb
+C:\Users\ADMIN\source\repos\NetDemos\28Demo_FileIO\obj\Debug\net10.0\28Demo_FileIO.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\NetDemos\28Demo_FileIO\obj\Debug\net10.0\ref\28Demo_FileIO.dll

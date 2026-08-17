@@ -1,0 +1,4 @@
+C:\Users\ADMIN\source\repos\NetDemos\08Demo_OOP\obj\Debug\net10.0\08Demo_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\NetDemos\08Demo_OOP\obj\Debug\net10.0\08Demo_OOP.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\NetDemos\08Demo_OOP\obj\Debug\net10.0\08Demo_OOP.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\NetDemos\08Demo_OOP\obj\Debug\net10.0\08Demo_OOP.csproj.CoreCompileInputs.cache

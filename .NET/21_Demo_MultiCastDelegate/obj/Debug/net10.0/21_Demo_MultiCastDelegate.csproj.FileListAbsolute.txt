@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\NetDemos\21_Demo_MultiCastDelegate\bin\Debug\net10.0\21_Demo_MultiCastDelegate.exe
+C:\Users\ADMIN\source\repos\NetDemos\21_Demo_MultiCastDelegate\bin\Debug\net10.0\21_Demo_MultiCastDelegate.deps.json
+C:\Users\ADMIN\source\repos\NetDemos\21_Demo_MultiCastDelegate\bin\Debug\net10.0\21_Demo_MultiCastDelegate.runtimeconfig.json
+C:\Users\ADMIN\source\repos\NetDemos\21_Demo_MultiCastDelegate\bin\Debug\net10.0\21_Demo_MultiCastDelegate.dll
+C:\Users\ADMIN\source\repos\NetDemos\21_Demo_MultiCastDelegate\bin\Debug\net10.0\21_Demo_MultiCastDelegate.pdb
+C:\Users\ADMIN\source\repos\NetDemos\21_Demo_MultiCastDelegate\obj\Debug\net10.0\21_Demo_MultiCastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\NetDemos\21_Demo_MultiCastDelegate\obj\Debug\net10.0\21_Demo_MultiCastDelegate.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\NetDemos\21_Demo_MultiCastDelegate\obj\Debug\net10.0\21_Demo_MultiCastDelegate.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\NetDemos\21_Demo_MultiCastDelegate\obj\Debug\net10.0\21_Demo_MultiCastDelegate.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\NetDemos\21_Demo_MultiCastDelegate\obj\Debug\net10.0\21_Demo_MultiCastDelegate.dll
+C:\Users\ADMIN\source\repos\NetDemos\21_Demo_MultiCastDelegate\obj\Debug\net10.0\refint\21_Demo_MultiCastDelegate.dll
+C:\Users\ADMIN\source\repos\NetDemos\21_Demo_MultiCastDelegate\obj\Debug\net10.0\21_Demo_MultiCastDelegate.pdb
+C:\Users\ADMIN\source\repos\NetDemos\21_Demo_MultiCastDelegate\obj\Debug\net10.0\21_Demo_MultiCastDelegate.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\NetDemos\21_Demo_MultiCastDelegate\obj\Debug\net10.0\ref\21_Demo_MultiCastDelegate.dll

@@ -1,0 +1,36 @@
+<Solution>
+  <Project Path="01Demo/01Demo.csproj" />
+  <Project Path="02Demo/02Demo.csproj" />
+  <Project Path="03Demo_DataTypes/03Demo_DataTypes.csproj" />
+  <Project Path="04Demo_OOP/04Demo_OOP.csproj" />
+  <Project Path="05Demo/05Demo.csproj" Id="dbfacfeb-d4fd-46b5-b680-c253cce6f46a" />
+  <Project Path="06Demo_OOP/06Demo_OOP.csproj" Id="ceb6e1f4-ba9f-406b-a882-bbe1d2b494c4" />
+  <Project Path="07Demo_OOP/07Demo_OOP.csproj" Id="44f609ee-9664-4a92-b9b0-78851d06f8fb" />
+  <Project Path="08Demo_OOP/08Demo_OOP.csproj" Id="81971f16-0640-47db-ae16-03da371444ac" />
+  <Project Path="09_Demo_OOP/09_Demo_OOP.csproj" Id="ee05d6e0-d371-4643-a2f3-8312d66fc8f8" />
+  <Project Path="10_Demo_OOP/10_Demo_OOP.csproj" Id="d63997ab-3c5c-483c-885d-66a25ed91597" />
+  <Project Path="11_Demo_OOP/11_Demo_OOP.csproj" Id="6e21e865-5a3f-4cd8-93a7-fcef45386409" />
+  <Project Path="12_demo_OOP/12_demo_OOP.csproj" Id="504c32ba-32a7-4237-a089-28ad4851bdcc" />
+  <Project Path="13_Demo_OOP/13_Demo_OOP.csproj" Id="e98264d8-83a9-4e2a-9415-4a17e2cffc6b" />
+  <Project Path="14Demo_CMathLib/14Demo_CMathLib.csproj" Id="049d9431-b9e2-4478-923b-a9c0a84fc643" />
+  <Project Path="18Demo_Delegate/18Demo_Delegate.csproj" Id="d6eeb06b-e5ea-431a-8970-ae0ef1c50f8e" />
+  <Project Path="19Demo_Events_Delegate/19Demo_Events_Delegate.csproj" Id="d89283d1-5e20-41c1-b3da-09dbe496de92" />
+  <Project Path="20_Demo_ObserverDesignPattern/20_Demo_ObserverDesignPattern.csproj" Id="61066b21-881c-497f-8a64-ac9cedfe56ae" />
+  <Project Path="21_Demo_MultiCastDelegate/21_Demo_MultiCastDelegate.csproj" Id="3d573164-d5fa-4834-8267-caa86ba8bf9a" />
+  <Project Path="22_Demo_Collection/22_Demo_Collection.csproj" Id="1ea7752f-e3d9-45c8-8d91-45e61650dd72" />
+  <Project Path="23_Demo_Generic/23_Demo_Generic.csproj" Id="9617c61a-2405-4f83-8805-be48400a33cd" />
+  <Project Path="24_Demo_Generic/24_Demo_Generic.csproj" Id="ec4dce77-2cde-41ca-abf1-fea08f6d25c4" />
+  <Project Path="25Demo_Generic_Collection/25Demo_Generic_Collection.csproj" Id="5f2f0006-8d69-487e-bc40-31712f022886" />
+  <Project Path="26Demo_GC/26Demo_GC.csproj" Id="2858dec7-7582-42a3-b0a6-ee5ee64b4730" />
+  <Project Path="27Demo_ExceptionHandling/27Demo_ExceptionHandling.csproj" Id="a3b4ef99-245e-4380-a1a7-c09f078fd54b" />
+  <Project Path="28Demo_FileIO/28Demo_FileIO.csproj" Id="f7cade63-2151-43c5-9cd9-5c1e7b240c8b" />
+  <Project Path="29Demo_BinarySerialization/29Demo_BinarySerialization.csproj" Id="b39bf7b6-48d7-4c31-80aa-e0c6490643cd" />
+  <Project Path="30_Demo_Serialization/30_Demo_Serialization.csproj" Id="224eb780-e4b2-4c5d-bb37-026ccf8caa2e" />
+  <Project Path="3Demo_CSharpFeatures/38Demo_CSharpFeatures.csproj" Id="b336ad8a-0527-4a48-811e-6ca94e9aa15a" />
+  <Project Path="40Demo_LINQ/40Demo_LINQ.csproj" Id="d113dd00-9a1b-4cc9-bb78-0c2070089b4b" />
+  <Project Path="41Demo_LINQ/41Demo_LINQ.csproj" Id="d3d646b2-0063-4452-9200-c858be3aeb5c" />
+  <Project Path="42Demo_ConnectedArchitecture/42Demo_ConnectedArchitecture.csproj" Id="9085ab5f-85dc-466b-8c5f-77215698c954" />
+  <Project Path="43_Demo_StoredProcedure/43_Demo_StoredProcedure.csproj" Id="c3809f0d-d0c2-42d1-ab0f-01f6fdff4a99" />
+  <Project Path="46Demo_Threading/46Demo_Threading.csproj" Id="21ccd179-2af1-4487-9069-363582e91485" />
+  <Project Path="4Demo_EntityFramework/45Demo_EntityFramework.csproj" Id="e720f7de-ee99-49c9-b828-c93c21afb4b4" />
+</Solution>

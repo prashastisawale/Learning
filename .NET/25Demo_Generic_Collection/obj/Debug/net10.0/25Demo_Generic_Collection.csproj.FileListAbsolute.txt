@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\NetDemos\25Demo_Generic_Collection\bin\Debug\net10.0\25Demo_Generic_Collection.exe
+C:\Users\ADMIN\source\repos\NetDemos\25Demo_Generic_Collection\bin\Debug\net10.0\25Demo_Generic_Collection.deps.json
+C:\Users\ADMIN\source\repos\NetDemos\25Demo_Generic_Collection\bin\Debug\net10.0\25Demo_Generic_Collection.runtimeconfig.json
+C:\Users\ADMIN\source\repos\NetDemos\25Demo_Generic_Collection\bin\Debug\net10.0\25Demo_Generic_Collection.dll
+C:\Users\ADMIN\source\repos\NetDemos\25Demo_Generic_Collection\bin\Debug\net10.0\25Demo_Generic_Collection.pdb
+C:\Users\ADMIN\source\repos\NetDemos\25Demo_Generic_Collection\obj\Debug\net10.0\25Demo_Generic_Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\NetDemos\25Demo_Generic_Collection\obj\Debug\net10.0\25Demo_Generic_Collection.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\NetDemos\25Demo_Generic_Collection\obj\Debug\net10.0\25Demo_Generic_Collection.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\NetDemos\25Demo_Generic_Collection\obj\Debug\net10.0\25Demo_Generic_Collection.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\NetDemos\25Demo_Generic_Collection\obj\Debug\net10.0\25Demo_Generic_Collection.dll
+C:\Users\ADMIN\source\repos\NetDemos\25Demo_Generic_Collection\obj\Debug\net10.0\refint\25Demo_Generic_Collection.dll
+C:\Users\ADMIN\source\repos\NetDemos\25Demo_Generic_Collection\obj\Debug\net10.0\25Demo_Generic_Collection.pdb
+C:\Users\ADMIN\source\repos\NetDemos\25Demo_Generic_Collection\obj\Debug\net10.0\25Demo_Generic_Collection.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\NetDemos\25Demo_Generic_Collection\obj\Debug\net10.0\ref\25Demo_Generic_Collection.dll

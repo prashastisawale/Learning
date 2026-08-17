@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\NetDemos\27Demo_ExceptionHandling\obj\Debug\net10.0\27Demo_ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\NetDemos\27Demo_ExceptionHandling\obj\Debug\net10.0\27Demo_ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\NetDemos\27Demo_ExceptionHandling\obj\Debug\net10.0\27Demo_ExceptionHandling.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\NetDemos\27Demo_ExceptionHandling\obj\Debug\net10.0\27Demo_ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\NetDemos\27Demo_ExceptionHandling\bin\Debug\net10.0\27Demo_ExceptionHandling.exe
+C:\Users\ADMIN\source\repos\NetDemos\27Demo_ExceptionHandling\bin\Debug\net10.0\27Demo_ExceptionHandling.deps.json
+C:\Users\ADMIN\source\repos\NetDemos\27Demo_ExceptionHandling\bin\Debug\net10.0\27Demo_ExceptionHandling.runtimeconfig.json
+C:\Users\ADMIN\source\repos\NetDemos\27Demo_ExceptionHandling\bin\Debug\net10.0\27Demo_ExceptionHandling.dll
+C:\Users\ADMIN\source\repos\NetDemos\27Demo_ExceptionHandling\bin\Debug\net10.0\27Demo_ExceptionHandling.pdb
+C:\Users\ADMIN\source\repos\NetDemos\27Demo_ExceptionHandling\obj\Debug\net10.0\27Demo_ExceptionHandling.dll
+C:\Users\ADMIN\source\repos\NetDemos\27Demo_ExceptionHandling\obj\Debug\net10.0\refint\27Demo_ExceptionHandling.dll
+C:\Users\ADMIN\source\repos\NetDemos\27Demo_ExceptionHandling\obj\Debug\net10.0\27Demo_ExceptionHandling.pdb
+C:\Users\ADMIN\source\repos\NetDemos\27Demo_ExceptionHandling\obj\Debug\net10.0\27Demo_ExceptionHandling.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\NetDemos\27Demo_ExceptionHandling\obj\Debug\net10.0\ref\27Demo_ExceptionHandling.dll

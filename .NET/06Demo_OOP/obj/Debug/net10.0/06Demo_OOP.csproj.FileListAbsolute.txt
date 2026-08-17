@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\NetDemos\06Demo_OOP\bin\Debug\net10.0\06Demo_OOP.exe
+C:\Users\ADMIN\source\repos\NetDemos\06Demo_OOP\bin\Debug\net10.0\06Demo_OOP.deps.json
+C:\Users\ADMIN\source\repos\NetDemos\06Demo_OOP\bin\Debug\net10.0\06Demo_OOP.runtimeconfig.json
+C:\Users\ADMIN\source\repos\NetDemos\06Demo_OOP\bin\Debug\net10.0\06Demo_OOP.dll
+C:\Users\ADMIN\source\repos\NetDemos\06Demo_OOP\bin\Debug\net10.0\06Demo_OOP.pdb
+C:\Users\ADMIN\source\repos\NetDemos\06Demo_OOP\obj\Debug\net10.0\06Demo_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\NetDemos\06Demo_OOP\obj\Debug\net10.0\06Demo_OOP.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\NetDemos\06Demo_OOP\obj\Debug\net10.0\06Demo_OOP.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\NetDemos\06Demo_OOP\obj\Debug\net10.0\06Demo_OOP.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\NetDemos\06Demo_OOP\obj\Debug\net10.0\06Demo_OOP.dll
+C:\Users\ADMIN\source\repos\NetDemos\06Demo_OOP\obj\Debug\net10.0\refint\06Demo_OOP.dll
+C:\Users\ADMIN\source\repos\NetDemos\06Demo_OOP\obj\Debug\net10.0\06Demo_OOP.pdb
+C:\Users\ADMIN\source\repos\NetDemos\06Demo_OOP\obj\Debug\net10.0\06Demo_OOP.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\NetDemos\06Demo_OOP\obj\Debug\net10.0\ref\06Demo_OOP.dll
